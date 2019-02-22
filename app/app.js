@@ -54,4 +54,4 @@ app.run(['editableOptions', function (editableOptions) {
 }]);
 
 //electron autoupdate
-app.run(['common', 'dialogs', 'electron', 'VERSION', require('./app/config.autoupdate')]);
+// app.run(['common', 'dialogs', 'electron', 'VERSION', require('./app/config.autoupdate')]);
